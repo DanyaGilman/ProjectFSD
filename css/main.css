@@ -85,3 +85,12 @@ height: 40px;
 left: 140px;
 top: 15px;
 }
+.back{
+	position: absolute;
+width: 1534px;
+height: 1022px;
+left: -47px;
+top: -61px;
+
+background: url(back.png);
+}
